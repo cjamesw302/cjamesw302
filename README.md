@@ -5,6 +5,8 @@
 - 🔧 I'm currently working on building a portfolio website
 - ✨ Fun fact: I practice MMA (boxing and kickboxing) and love playing video games
 
+<br />
+
 ### Languages and Tools:
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
