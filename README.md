@@ -5,6 +5,10 @@
 - 🔧 I'm currently working on building a portfolio website
 - ✨ Fun fact: I practice MMA (boxing and kickboxing) and love playing video games
 
+### Connect with me:
+[<img src="https://img.icons8.com/material-outlined/24/000000/linkedin--v1.png"/>][linkedin]
+<br />
+
 ### Languages and Tools:
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" />
@@ -24,8 +28,5 @@
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
 <br />
-
-### Connect with me:
-[<img src="https://img.icons8.com/material-outlined/24/000000/linkedin--v1.png"/>][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/carlwilliams0/
