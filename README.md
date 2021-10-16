@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning AWS and Python
 - 🔧 I'm currently working on building a portfolio website
 - ✨ Fun fact: I practice MMA (boxing and kickboxing) and love playing video games
-<br />
+
 ### Languages and Tools:
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
@@ -25,7 +25,9 @@
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" />
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+
 <br />
+
 ### Connect with me:
 [<img src="https://img.icons8.com/material-outlined/24/000000/linkedin--v1.png"/>][linkedin]
 
