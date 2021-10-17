@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m CJ or @cjamesw302
 
 ## I'm an aspiring IT professional! 
-- 🌱 I’m currently learning AWS and Python
+- 🌱 I’m currently learning AWS, Python, and React.js
 - 🔧 I'm currently working on building a portfolio website
 - ✨ Fun fact: I practice MMA (boxing and kickboxing) and love playing video games
 
