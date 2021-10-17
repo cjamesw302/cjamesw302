@@ -6,7 +6,7 @@
 - ✨ Fun fact: I practice MMA (boxing and kickboxing) and love playing video games
 
 ### Connect with me:
-[<img src="https://img.icons8.com/material-outlined/24/000000/linkedin--v1.png"/>][linkedin]
+[<img src="https://img.icons8.com/ios-filled/100/000000/linkedin.png" style="cursor:pointer;" title="CJ's Linkedin Profile"/>][linkedin]
 <br />
 
 ### Languages and Tools:
