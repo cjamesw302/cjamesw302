@@ -2,7 +2,7 @@
 
 ## I'm an aspiring IT professional! 
 - 🌱 I’m currently learning AWS, Python, and React.js
-- 🔧 I'm currently working on building a portfolio website
+- 🔧 I'm currently working on building a portfolio website and backing-up all of my projects
 - ✨ Fun fact: I practice MMA (boxing and kickboxing) and love playing video games
 
 ### Connect with me:
